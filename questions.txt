@@ -1,0 +1,5 @@
+What is the capital of France?,Paris,Berlin,Madrid,Rome,1
+What is 2 + 2?,3,4,5,6,2
+What is the largest planet in our solar system?,Earth,Mars,Jupiter,Venus,3
+Which programming language is known as the backbone of web development?,Python,JavaScript,C++,Ruby,2
+Who developed the theory of relativity?,Newton,Einstein,Galileo,Tesla,2
